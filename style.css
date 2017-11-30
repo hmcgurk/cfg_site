@@ -1,0 +1,137 @@
+body {
+  margin-top: 70px;
+  font-family: 'Roboto', sans-serif;
+  color: rgba(0, 0, 0, 1);
+}
+
+h1, h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+  font-family: 'Rozha One', serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+nav .navbar-brand {
+  font-family: 'Lalezar', cursive;
+  padding-top: 10px;
+  font-size: 35px;
+}
+
+nav .btn {
+  border-color: rgba(20, 59, 150, 1);
+  background-color: white;
+  color: rgba(20, 59, 150, 1);
+}
+
+nav .btn:hover {
+  background-color: rgba(20, 59, 150, 1);
+  color: white;
+}
+
+
+.carousel-caption {
+  background-color: rgba(0,0,0,.2);
+  padding: 5px;
+}
+
+.carousel-caption h2, p {
+  margin-bottom: 0px;
+}
+
+
+#top {
+  background-color: #F7DB4F;
+  font-size: 14px;
+}
+
+#top img {
+  max-width:100px;
+}
+
+
+#newcomers {
+  text-align: center;
+}
+
+#newcomers a {
+  color: white;
+}
+
+#newcomers a:hover {
+  color: #F7DB4F;
+}
+#newcomers h3 {
+  background-color: rgba(0, 0, 0, 0.4);
+  bottom: 0px;
+  color: white;
+  margin-bottom: 0px;
+  padding: 15px 5px;
+  position: absolute;
+  font-size: 1.2rem;
+  width: 100%;
+}
+
+#newcomers img {
+  width:100%;
+}
+
+
+#bar {
+  background-color: rgba(20, 59, 150, 1);
+  color: white;
+  text-align: center;
+}
+
+.album-nav .nav-link {
+  color: white;
+  margin: auto;
+}
+
+.album-nav .nav-link.active{
+  background-color: rgba(0,0,0,0.1);
+}
+
+#nominees {
+  text-align: center;
+}
+
+#nominees .album-img, .album-desc, h2, p {
+  margin:auto;
+}
+
+#nominees img {
+  max-height: 350px;
+}
+
+#nominees .blockquote, .blockquote-footer {
+  font-size: 12px;
+  font-family: 'Neuton', serif;
+}
+
+
+#footer {
+  background-color: black;
+  width: 100%;
+  color: white;
+  font-size: 12px;
+}
+
+#footer img {
+  max-width: 20px;
+  margin: 5px;
+}
+
+#footer a {
+  color: white;
+}
+
+#contact {
+  background-color: rgba(20, 59, 150, 1);
+  margin: 100px auto 30px auto;
+  color: white;
+  border-radius: 10px;
+}
